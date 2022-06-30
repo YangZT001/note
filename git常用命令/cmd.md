@@ -66,11 +66,11 @@ git merge \<分支名\>
 
 账号						邮箱											密码
 
-YangZT001			2264350090@qq.com			 hehe!@#123
+YangZT001			2264350090@qq.com			 字母符号密码
 
-YangZT002			15968537511@163.com     	hehe!@#123
+YangZT002			15968537511@163.com     	字母符号密码
 
-YangZT003			yzt15557539150@163.com	hehe!@#123
+YangZT003			yzt15557539150@163.com	字母符号密码
 
 ### 查看当前所有远程库别名
 
