@@ -1,3 +1,5 @@
+token：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
+
 ## 常用命令
 
 ### 设置用户名
